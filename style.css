@@ -1,0 +1,66 @@
+body {
+  height: 100vh;
+  position: relative;
+  font-family: "Inconsolata", monospace !important;
+}
+.carousel h3 {
+  font-size: 5rem;
+  font-weight: bolder;
+  font-style: italic;
+  letter-spacing: -0.05em;
+}
+.carousel p {
+  font-size: 1rem;
+  font-style: italic;
+  letter-spacing: -0.05em;
+}
+
+.carousel img {
+  max-height: 100vh;
+  min-width: auto;
+}
+
+.jumbotron h2 {
+  font-size: 5rem;
+  font-style: italic;
+  font-weight: bolder;
+  color: palegoldenrod !important;
+}
+
+.jumbotron {
+  color: #ffffff;
+}
+
+#my-cards h2 {
+  font-size: 5rem;
+  font-style: italic;
+  font-weight: bolder;
+  color: palegoldenrod !important;
+}
+
+.card h5 {
+  font-size: 3rem;
+  font-style: italic;
+  letter-spacing: -5pt;
+}
+
+.navbar-brand {
+  font-size: 1.6rem !important;
+  font-style: italic;
+}
+
+.modal h5 {
+  font-weight: bolder;
+}
+
+#about-us {
+  font-size: 2em;
+}
+
+#about-us h1 {
+  font-size: 3em;
+}
+
+#about-us h2 {
+  font-style: italic;
+}
